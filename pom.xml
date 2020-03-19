@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.transcore</groupId>
-  <artifactId>NCTA_TestNG</artifactId>
+  <artifactId>LA_Metro</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>NCTA_TestNG</name>
+  <name>LA_Metro</name>
   <url>http://maven.apache.org</url>
   <properties>
 		 <kotlin.version>1.0.5-2</kotlin.version>
