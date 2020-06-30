@@ -29,7 +29,7 @@ public class LAMetro_Login_Test {
 		Wait.waitForElement(driver, 20, By.xpath("//ul[@id='menu-top-menu']/li/a[@title='Login']"));
 		driver.findElement(By.xpath("//ul[@id='menu-top-menu']/li/a[@title='Login']")).click();
 		Wait.waitForElement(driver, 20, By.id("input_2"));
-		driver.findElement(By.id("input_2")).sendKeys("KerrSmoke");
+		driver.findElement(By.id("input_2")).sendKeys("dkerr");
 		driver.findElement(By.id("input_3")).sendKeys("S@ndieg0");
 		driver.findElement(By.xpath("//button[@type='submit']")).click();
 		Wait.waitForElement(driver, 20, By.xpath("//div[text()='Summary']"));
